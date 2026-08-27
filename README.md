@@ -8,8 +8,6 @@
 ![Pypi status][pypi-status]
 ![License][license]
 
-.
-
 Dectris Eiger detector simulator.
 
 For now simulates Eiger 9M at full ROI in internal trigger single mode (ints).
